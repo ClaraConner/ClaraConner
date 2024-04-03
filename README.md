@@ -1,6 +1,4 @@
-## Hi I'm Clara :)
-### I study Software Engineering with a minor in Spanish!
-### I am learning more about Web Development and Machine Learning
+
 
 
 <!--
