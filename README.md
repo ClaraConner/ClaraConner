@@ -1,4 +1,4 @@
-## Hi I am Clara :)
+![header](https://capsule-render.vercel.app/api?type=waving&color=a1bf93&height=140&section=header&text=Hi%20I%20am%20Clara!&fontSize=50)
 > I am an undergraduate junior studying Software Engineering with a minor in Spanish.
 \
 I have the most experience with Web Development, but I am also gaining more experience with Python and Machine Learning.
