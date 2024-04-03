@@ -5,6 +5,8 @@ I have the most experience with Web Development, but I am also gaining more expe
 \
 *In my free time, you can find me caring for my plants 🪴 trying new recipes 🍳 or working on a variety of crafts 🧶🎨*
 \
+The main repositories I frequent, are those I manage for ACM Projects at UTD and the WEHack Website and Portal page I help to develop!
+\
 Enjoy some stats on my GitHub and feel free to explore! ✨
 >
 
