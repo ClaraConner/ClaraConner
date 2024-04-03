@@ -1,5 +1,5 @@
 ## Hi I am Clara :)
-> I am an undergraduate studying Software Engineering with a minor in Spanish.
+> I am an undergraduate junior studying Software Engineering with a minor in Spanish.
 \
 I have the most experience with Web Development, but I am also gaining more experience with Python and Machine Learning.
 \
