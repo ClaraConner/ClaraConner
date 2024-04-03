@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Clara :)
+# I study Software Engineering with a minor in Spanish!
+
 
 <!--
 **ClaraConner/ClaraConner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
